@@ -14,3 +14,4 @@ Research Ideas (You can use any research idea that comes to mind)
 3. Identify patterns in where/when crashes occur
 4. Come up with additional 2 more ideas of yours
 [Airplance crash and Fatalities.pdf](https://github.com/user-attachments/files/19158939/Airplance.crash.and.Fatalities.pdf)
+Power BI link to this viz https://app.powerbi.com/links/YbDnfdi_1O?ctid=cc5894f0-eaa8-4da0-ab90-fd7a73e8a8f3&pbi_source=linkShare
