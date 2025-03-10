@@ -13,3 +13,4 @@ Research Ideas (You can use any research idea that comes to mind)
 2. Analyze what type of aircraft is involved in the most crashes
 3. Identify patterns in where/when crashes occur
 4. Come up with additional 2 more ideas of yours
+[Airplance crash and Fatalities.pdf](https://github.com/user-attachments/files/19158939/Airplance.crash.and.Fatalities.pdf)
